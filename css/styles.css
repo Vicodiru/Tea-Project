@@ -608,6 +608,9 @@ margin-bottom: 1.75rem;
   text-transform: uppercase;
   letter-spacing: var(--spacing);
 }
+.resize{
+  resize: none;
+}
 .submit-btn{
   display: block;
   width: 100%;
